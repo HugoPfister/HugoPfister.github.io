@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.iap.fr/useriap/pfister/</loc>
+  <lastmod>2021-10-05T06:09:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.iap.fr/useriap/pfister/index.html</loc>
+  <lastmod>2021-10-05T06:09:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.iap.fr/useriap/pfister/CV.html</loc>
+  <lastmod>2021-10-05T06:26:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.iap.fr/useriap/pfister/research.html</loc>
+  <lastmod>2021-10-05T06:27:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.iap.fr/useriap/pfister/Publications.html</loc>
+  <lastmod>2021-10-05T06:27:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.iap.fr/useriap/pfister/Files/these_pfister.pdf</loc>
+  <lastmod>2019-10-16T14:03:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.iap.fr/useriap/pfister</title>
+  <link>http://www.iap.fr/useriap/pfister</link>
+
+<item>
+     <link>http://www.iap.fr/useriap/pfister/</link>
+     <title>Hugo Pfister</title>
+     <description>Astronomy webpage of Hugo Pfister</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.iap.fr/useriap/pfister/index.html</link>
+     <title>Hugo Pfister</title>
+     <description>Astronomy webpage of Hugo Pfister</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.iap.fr/useriap/pfister/CV.html</link>
+     <title>Hugo Pfister</title>
+     <description>Astronomy webpage of Hugo Pfister</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.iap.fr/useriap/pfister/research.html</link>
+     <title>Hugo Pfister</title>
+     <description>Astronomy webpage of Hugo Pfister</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.iap.fr/useriap/pfister/Publications.html</link>
+     <title>Hugo Pfister</title>
+     <description>Astronomy webpage of Hugo Pfister</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.iap.fr/useriap/pfister/Files/these_pfister.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
